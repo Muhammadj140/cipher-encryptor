@@ -5,5 +5,5 @@ An optimal program to encrupt and decrypt data from file in local machine.
 - done in C  
 
 commands must include proper parameters to run successfully.
--s : shift (followed  by the numbers specifying the shift)
--rs : reverse shift (followed  by the numbers specifying the shift)
+- -s : shift (followed  by the numbers specifying the shift)
+- -rs : reverse shift (followed  by the numbers specifying the shift)
