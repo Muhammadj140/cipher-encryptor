@@ -1,14 +1,9 @@
 # cipher-encryptor
 
-An enhanced program to detect any lines, entered by the user, through multiple files in local machine. 
+An optimal program to encrupt and decrypt data from file in local machine.
+- Ran through terminal in Ubuntu Linux
+- done in C  
 
-| imported packages|
-| ------ | 
-| bufio | 
-| fmt | 
-| os | 
-| strings | 
-| io/ioutil | 
-| log | 
-
-- done in GO  
+commands must include proper parameters to run successfully.
+-s : shift (followed  by the numbers specifying the shift)
+-rs : reverse shift (followed  by the numbers specifying the shift)
